@@ -5,6 +5,7 @@
 ### The 2019 Most Secure, Powerful & Professional "Social Dating Web App Builder" 🚀
 
 [![PayPal](https://img.shields.io/badge/Donate-PayPal-lightgrey.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=X457W3L7DAPC6 "Help keep me off the streets! ;)") [![Build Status](https://scrutinizer-ci.com/g/pH7Software/pH7-Social-Dating-CMS/badges/build.png?b=master)](https://scrutinizer-ci.com/g/pH7Software/pH7-Social-Dating-CMS/build-status/master) [![GPL v3 Licence](https://img.shields.io/aur/license/yaourt.svg)](https://opensource.org/licenses/gpl-3.0.html) [![SourceForge](https://img.shields.io/badge/Download-SourceForge-orange.svg)](https://sourceforge.net/projects/ph7socialdating/files/latest/download) [![Patreon](https://img.shields.io/badge/Subscribe-Patreon-red.svg)](https://www.patreon.com/bePatron?u=3534366 "Become a Patron Today!")
+To donate via blockchain, please send to this address 1BNS13JEvtS7jZeTXKmBCZHyJyJafF2EuE
 
 **pH7, Social Dating CMS Solution™** is a **Professional**, **Free** & **Open Source** Social Dating CMS, fully responsive design, low-resource-intensive, powerful and very secure.
 
